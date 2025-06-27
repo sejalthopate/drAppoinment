@@ -1,0 +1,47 @@
+#h2{
+    color:blue;
+}
+.dr1{
+  
+    height: 10%;
+    width:10%;
+    border-radius: 80%;
+    
+    
+   
+}
+.b1{
+    display: flex;
+    justify-content: center;
+     color: blue;
+
+}
+#r1{
+    color: red;
+}
+.form1{
+    color:black;
+}
+.lbtn{
+    background-color: darkorange;
+    cursor:pointer;
+    
+
+}
+
+.field1{
+    
+    box-shadow:0px 4px 10px red;
+    background-color: rgba(186, 59, 171, 0.299);
+
+
+}
+.p1{
+
+   color: rgb(7, 145, 7);
+text-align: center;
+padding: 300px ;
+margin: 30px;
+background-color: rgb(192, 235, 158);
+background: cover;
+}
